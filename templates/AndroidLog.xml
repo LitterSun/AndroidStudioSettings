@@ -1,0 +1,27 @@
+<templateSet group="AndroidLog">
+  <template name="xlog" value="android.util.Log.e(&quot;xxx&quot;, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="alogi" value="com.bytedance.ee.lark.infra.foundation.log.AppBrandLogger.i(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.i(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="aloge" value="com.bytedance.ee.lark.infra.foundation.log.AppBrandLogger.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logt" value="private static final String TAG = &quot;$className$&quot;;" description="A static logtag with your current classname" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

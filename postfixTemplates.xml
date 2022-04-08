@@ -1,0 +1,10 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="isemp@userDefined" key=".isemp" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions>
+        <condition id="fqn" fqn="java.lang.String" />
+      </conditions>
+      <template name="fakeKey" value="android.text.TextUtils.isEmpty($EXPR$)$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
