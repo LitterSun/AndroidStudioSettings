@@ -12,6 +12,19 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.31.30:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-01T13:10:33.245477Z" />
+        <type value="TV" />
+        <name value="xiaomi MiTV4" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
