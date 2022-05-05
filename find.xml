@@ -6,7 +6,7 @@
     <mask>*.GRADLE</mask>
     <mask>*.gradle</mask>
     <mask>*.cc</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
