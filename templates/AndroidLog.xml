@@ -24,4 +24,11 @@
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="loggi" value="com.ss.android.appcenter.common.util.Logger.i(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Logger.i(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
