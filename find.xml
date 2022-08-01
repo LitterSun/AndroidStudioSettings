@@ -4,9 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.GRADLE</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.cc</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
