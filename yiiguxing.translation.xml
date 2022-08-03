@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Behavior" />
       <item value="request" />
       <item value="dismiss" />
       <item value="Tracker" />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
