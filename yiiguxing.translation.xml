@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="faker" />
       <item value="UNSPECIFIED" />
       <item value="Sort" />
       <item value="Specific" />
@@ -26,12 +27,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660564205738" />
+    <option name="lastTrimTime" value="1661413028395" />
   </component>
 </application>
