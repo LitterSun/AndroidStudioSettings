@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Recommend" />
       <item value="Sticky" />
       <item value="Range" />
       <item value="Hierarchy" />
@@ -37,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
