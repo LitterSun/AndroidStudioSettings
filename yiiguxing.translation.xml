@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Period" />
       <item value="profile" />
       <item value="detect" />
       <item value="Recommend" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
