@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Flavors" />
+      <item value="pendah" />
+      <item value="Period" />
+      <item value="profile" />
+      <item value="detect" />
       <item value="Recommend" />
       <item value="Sticky" />
       <item value="Range" />
@@ -38,13 +43,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="DANISH" value="1" />
+        <entry key="JAVANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663587011080" />
+    <option name="lastTrimTime" value="1665546935150" />
   </component>
 </application>
