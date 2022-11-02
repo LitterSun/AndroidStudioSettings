@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="783" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="frozen" />
       <item value="Flavors" />
       <item value="pendah" />
       <item value="Period" />
@@ -43,14 +44,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="DANISH" value="1" />
         <entry key="JAVANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665546935150" />
+    <option name="lastTrimTime" value="1667379352749" />
   </component>
 </application>
