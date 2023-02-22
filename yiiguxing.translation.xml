@@ -55,10 +55,11 @@
     <option name="lastTrimTime" value="1667379352749" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676278621072" />
+    <option name="lastTrimTime" value="1677050608980" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="region" />
       <item value="Again" />
       <item value="Clears the the previously set query." />
       <item value="Extra" />
@@ -77,8 +78,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
