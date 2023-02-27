@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:xxx" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:xxx" />
         <option value="package:mine tag:WorkplaceRouterFragment tag:WorkplacePageRouter tag:xxx" />
+        <option value="package:mine tag:xxx" />
         <option value="package:mine tag:WorkplaceRouterFragment tag:WorkplacePageRouter" />
         <option value="package:mine tag:WorkplaceRouterFragment tag:" />
         <option value="package:mine tag:" />
