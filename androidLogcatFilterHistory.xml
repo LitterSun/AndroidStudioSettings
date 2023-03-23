@@ -1,18 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:WorkplaceRouterFragment tag:WorkplacePageRouter tag:xxx" />
     <option name="nonFavorites">
       <list>
+        <option value=" " />
+        <option value="level: " />
+        <option value="package:mine tag:xxx" />
+        <option value="level:error " />
+        <option value="package:mine " />
         <option value="package:mine tag:WorkplaceRouterFragment tag:WorkplacePageRouter tag:xxx" />
         <option value="package:mine tag:WorkplaceRouterFragment tag:WorkplacePageRouter" />
         <option value="package:mine tag:WorkplaceRouterFragment tag:" />
         <option value="package:mine tag:" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:xxx " />
-        <option value="package:mine tag:xxx" />
         <option value="package:mine message:xxx" />
         <option value="package:mine message:crash" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:xxx tag:Workplace_Template_Page" />
         <option value="tag:xxx" />

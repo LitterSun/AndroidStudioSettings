@@ -8,5 +8,6 @@
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
