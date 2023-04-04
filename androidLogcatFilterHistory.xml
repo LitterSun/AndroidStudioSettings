@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:xxx" />
+        <option value="level:assert " />
         <option value="package:mine " />
         <option value="tag:WorkplaceView | message:moveToSuccess" />
         <option value="tag:WorkplaceView | message:" />
@@ -22,7 +23,6 @@
         <option value=" tag:LaunchScheduler" />
         <option value=" LaunchScheduler" />
         <option value=" " />
-        <option value="level: " />
       </list>
     </option>
   </component>
