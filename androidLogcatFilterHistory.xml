@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:WorkplaceView | message:moveToSuccess" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:WorkplaceView | message:moveToSuccess" />
         <option value="tag:WorkplaceView | message:" />
         <option value="tag:WorkplaceView " />
@@ -20,7 +21,6 @@
         <option value=" tag:LaunchScheduler" />
         <option value=" LaunchScheduler" />
         <option value=" " />
-        <option value="package:mine " />
         <option value="level: " />
         <option value="package:mine tag:xxx" />
       </list>
