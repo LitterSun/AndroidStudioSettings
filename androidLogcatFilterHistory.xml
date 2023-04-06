@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag:DataService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DataService" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:com.antutu.abenchmark " />
@@ -22,7 +23,6 @@
         <option value=" tag:WorkplaceView message:moveToSuccess" />
         <option value=" tag:WorkplaceView message:" />
         <option value=" tag:WorkplaceView" />
-        <option value=" tag:LaunchScheduler" />
       </list>
     </option>
   </component>
