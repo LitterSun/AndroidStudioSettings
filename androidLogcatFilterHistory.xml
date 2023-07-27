@@ -1,15 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine message:is_on_screen" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:is_on_screen" />
         <option value="package:mine " />
-        <option value="package:mine" />
-        <option value="package:mine tag:xxx tag:Workplace_Template_Page" />
-        <option value="package:mine tag:xxx" />
-        <option value="tag:xxx" />
-        <option value="package:mine tag:CommonAndRecommendView" />
-        <option value="package:mine tag:" />
+        <option value="tag:WorkplaceView | message:moveToSuccess" />
+        <option value="tag:WorkplaceView | message:" />
+        <option value="tag:WorkplaceView " />
+        <option value="tag:WorkplaceView package:mine message:moveToSuccess" />
+        <option value="tag:WorkplaceView package:mine message:" />
+        <option value="tag:WorkplaceView" />
+        <option value="message:moveToSuccess tag:WorkplaceView" />
+        <option value="message:moveToSuccess tag:" />
+        <option value="message:" />
+        <option value="tag:" />
+        <option value="tag:WorkplaceView tag:" />
+        <option value=" tag:WorkplaceView message:moveToSuccess" />
+        <option value=" tag:WorkplaceView message:" />
+        <option value=" tag:WorkplaceView" />
+        <option value=" tag:LaunchScheduler" />
+        <option value=" LaunchScheduler" />
+        <option value=" " />
+        <option value="level: " />
       </list>
     </option>
   </component>
